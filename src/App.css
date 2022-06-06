@@ -28,7 +28,7 @@ body {
   align-items: center;
   flex-direction: column;
   border-radius: 25px;
-  padding: 2%;
+  padding: 5%;
   box-shadow: 1px 5px 9px 3px;
 }
 .heading {
@@ -48,7 +48,7 @@ body {
   cursor: pointer;
   text-transform: uppercase;
   height: 200px;
-  width: 210px;
+  width: 150px;
   opacity: 1;
   background-color: #f71294;
   border: 1px solid rgba(243, 244, 247, 0.911);
